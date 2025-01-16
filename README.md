@@ -57,3 +57,10 @@ Modèle de régression pour examiner les facteurs influençant le nombre de vues
    ```sas
    %let path=/chemin/vers/dossier/data;
 
+## 🖋️ Auteur
+
+Jawhara CHAFI
+Mathys GENET
+Rémi GOMES MOREIRA
+Imane SAHNOUNE
+
