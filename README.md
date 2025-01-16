@@ -60,7 +60,10 @@ Modèle de régression pour examiner les facteurs influençant le nombre de vues
 ## 🖋️ Auteur
 
 Jawhara CHAFI
+
 Mathys GENET
+
 Rémi GOMES MOREIRA
+
 Imane SAHNOUNE
 
