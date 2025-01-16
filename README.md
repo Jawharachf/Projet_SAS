@@ -56,4 +56,4 @@ Modèle de régression pour examiner les facteurs influençant le nombre de vues
 1. Définir le chemin d'accès aux données :
    ```sas
    %let path=/chemin/vers/dossier/data;
-``` 
+
